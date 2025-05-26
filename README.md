@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-# App url =>  https://github.com/KrishnanProvility/first-react-project
+# App url => [ https://github.com/KrishnanProvility/first-react-project](https://krishnanprovility.github.io/first-react-project/)](https://krishnanprovility.github.io/first-react-project/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
